@@ -24,8 +24,8 @@ Este é um programa que utiliza ataques de dicionário híbrido e força bruta p
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/brutal_force_attack.git
-   cd brutal_force_attack
+   git clone https://github.com/seu-usuario/BrutalForceAttack.git
+   cd BrutalForceAttack
    ```
 
 2. Prepare sua wordlist
@@ -40,7 +40,7 @@ Este é um programa que utiliza ataques de dicionário híbrido e força bruta p
 4. Execução
 
 ```bash
-python password_cracker.py
+python brutal_force_attack.py
 ```
 
 ---
